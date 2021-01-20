@@ -1,1 +1,1 @@
-# Some Python practice project/assignment.
+# Some Python project/assignment.
